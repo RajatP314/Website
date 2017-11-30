@@ -1,2 +1,2 @@
 # Website
-A website for computer science club.
+Just testing stuff
